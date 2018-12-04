@@ -1,0 +1,2 @@
+# Autostruct
+Autostruct your craft.
